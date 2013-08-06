@@ -11,7 +11,7 @@
 }
 
 * { margin: 0; padding: 0; list-style: none; }
-h2 { color: #656565; }
+h2 { color: #656565; text-shadow: 1px 1px 0 rgba(255,255,255,.3); }
 
 p { font-size: 13px; color: #878787; line-height: 1.3em; }
 
@@ -45,6 +45,7 @@ header {
 				color: #2c2f8e;
 				padding-bottom: 20px;
 				border-bottom:5px solid transparent;
+				transition: all .3s ease 0s;
 
 				&:hover {
 					border-bottom:5px solid #9896ba;
@@ -193,43 +194,38 @@ section {
 			}
 
 			.caption {
-				width: 415px;
-				height: 85px;
+				width: 300px;
+				height: 25px;
 				position: absolute;
-				top: 220px;
-				left: 350px;
+				top: 222px;
+				left: 30px;
 				z-index: 99;
 				padding: 20px;
-				background: #000;
-				background: rgba(0,0,0,.5); text-align:left;
+				background-color: #1c74bc;
+				text-align:left;
 
 				h3 {
-					width: 550px;
-					font-size: 54px;
+					width: 310px;
+					font-size: 20px;
+					padding: 5px 15px;
+					font-weight: normal;
+					text-align: right;
 					color: #FFF;
-					text-shadow: 3px 3px 3px #222;
-					margin: -90px 0 0 -20px;
+					margin: -57px 0 0 -50px;
+					background-color: #40b9e4;
 					text-transform: uppercase;
 				}
 
 				p {
-					margin-top: 30px;
-					font: 20px Arial, Helvetica, sans-serif;
-					color: #FFF;
+					margin-top: 23px;
+					font-size: 15px;
+					color: #a5c0db;
 				}
 
 				a {
-					font-size: 15px;
-					letter-spacing: 1px;
-					color: #FFF;
-					position: absolute;
-					top: 80px;
-					left: 290px;
-					text-decoration: none;
-					border-radius: 9px;
-					padding: 5px 13px;
-					background: #42929d;
-					text-transform: uppercase; 
+					.link-btn();
+					float: right;
+					margin: 30px -20px 0;
 				}
 			}
 
