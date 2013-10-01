@@ -11,6 +11,8 @@
 <link rel="stylesheet" href="css/main.css" media="all" />
 <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300' rel='stylesheet' type='text/css'>
 
+<script src="js/modernizr.js"></script>
+
 </head>
 
 <body>

@@ -1,4 +1,5 @@
-<?php include('functions.php'); ?>
+<?php require('functions.php'); ?>
+
 <?php get_header(); ?>
-<?php include('home.php'); ?>
-<?php include('footer.php'); ?>
+<?php get_sidebar(); ?>
+<?php get_footer(); ?>

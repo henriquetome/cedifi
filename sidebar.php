@@ -7,12 +7,27 @@
 
 					<li class="slide">
 						<img src="images/banner.jpg" alt="" />
+						<div class="caption">
+							<h3>LOREM IPSUM DOLOR</h3>
+							<p>Lorem ipsum dolor é um texto complementar</p>
+							<a class="btn" href="#">SAIBA MAIS</a>
+						</div><!-- .caption -->
 					</li>
 					<li class="slide">
 						<img src="images/banner.jpg" alt="" />
+						<div class="caption">
+							<h3>LOREM IPSUM DOLOR</h3>
+							<p>Lorem ipsum dolor é um texto complementar</p>
+							<a class="btn" href="#">SAIBA MAIS</a>
+						</div><!-- .caption -->
 					</li>
 					<li class="slide">
 						<img src="images/banner.jpg" alt="" />
+						<div class="caption">
+							<h3>LOREM IPSUM DOLOR</h3>
+							<p>Lorem ipsum dolor é um texto complementar</p>
+							<a class="btn" href="#">SAIBA MAIS</a>
+						</div><!-- .caption -->
 					</li>
 
 				</ul><!--slides_container-->
@@ -29,19 +44,19 @@
 			<img src="images/ico_heart.jpg" alt="" />
 			<h2>DICAS DE SAÚDE</h2>
 			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's tandard dummy text ever since the 1500s.</p>
-			<a href="#">SAIBA MAIS</a>
+			<a class="btn" href="#">SAIBA MAIS</a>
 		</li>
 		<li>
 			<img src="images/ico_tool.jpg" alt="" />
 			<h2>EXAMES</h2>
 			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's tandard dummy text ever since the 1500s.</p>
-			<a href="#">SAIBA MAIS</a>
+			<a class="btn" href="#">SAIBA MAIS</a>
 		</li>
 		<li>
 			<img src="images/ico_hand.jpg" alt="" />
 			<h2>PREVENÇÃO</h2>
 			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's tandard dummy text ever since the 1500s.</p>
-			<a href="#">SAIBA MAIS</a>
+			<a class="btn" href="#">SAIBA MAIS</a>
 		</li>
 	</ul>
 
@@ -69,5 +84,5 @@
 			</a>
 		</li>
 	</ul>
-	<a class="link" href="#">VER TODAS</a>
+	<a class="link btn" href="#">VER TODAS</a>
 </div><!-- #last-news -->
