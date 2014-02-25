@@ -1,9 +1,13 @@
-@colorbase: #f2f6f8;
+@colorbase: #fcfcfc;
 
 * { margin: 0; padding: 0; list-style: none; }
+
+h1 { border-bottom: 1px dotted #656565; color:#656565; font-size:35px; font-weight:400; margin:30px 0 20px; }
 h2 { color: #656565; text-shadow: 1px 1px 0 rgba(255,255,255,.3); font-weight: normal; }
 
-p { font-size: 13px; color: #878787; line-height: 1.3em; font-weight: normal; }
+p { font-size: 14px; color: #878787; line-height: 1.3em; font-weight: normal; }
+
+a { color: #a6b9c3; text-decoration: none; }
 
 body {
 	min-width: 988px;
@@ -17,13 +21,15 @@ header {
 	height: 150px;
 	width: 100%;
 	background-color: @colorbase;
-	box-shadow: 0 3px 4px rgba(0,0,0,.2);
+	border-bottom: 1px solid #e2e2e2;
+	box-shadow: 0 3px 4px rgba(0,0,0,.02);
 	position: relative;
 	z-index: 2;
 
 	nav {
-		float: right;
-		margin-top: 107px;
+		position: absolute;
+		right: 0;
+		bottom: 24px;
 
 		li {
 			float: left;
@@ -61,6 +67,15 @@ section {
 	position: relative;
 	z-index: 1;
 	display: table;
+
+	&#page {
+		padding: 20px;
+
+		.inner {
+		    display: table;
+		    margin: 35px 0 0;
+		}
+	}
 }
 
 #sh-box {
@@ -118,10 +133,12 @@ section {
 	color: #7f9ba9;
 	text-decoration: none;
 	background-color: #f2f6f8;
+	transition: all .3s ease 0s;
 	box-shadow: 1px 1px 2px rgba(0,0,0,.4);
 
 	&:hover {
-		background-color: red;
+		opacity: .8;
+		text-decoration: none;
 	}
 }
 
@@ -172,6 +189,10 @@ section {
 					margin: 0 5px 5px 0;
 				}
 			}
+
+			p { 
+				font-size: 13px;
+			}
 		}
 	}
 
@@ -179,6 +200,45 @@ section {
 		position: absolute;
 		bottom: 0;
 		right: 20px;
+	}
+}
+
+article#exam {
+	width: 454px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    margin: 0 30px 30px 0;
+    padding: 10px;
+    transition: all .5s ease 0s;
+
+    &:hover {
+    	background-color:#fcfcfc;
+    	border-color:#e2e2e2
+    }
+
+    &:nth-child(2n) {
+    	margin-right: 0;
+    }
+
+    img {
+	    border: 4px solid #fff;
+	    box-shadow: 1px 1px 2px rgba(0,0,0,.3);
+	}
+
+	ul.exam-nav {
+		margin-left: 10px;
+
+		a {
+			display: block;
+			margin-bottom: 2px;
+			padding: 3px;
+			transition: all 0.2s ease 0s;
+
+			&:hover {
+				background-color: #a6b9c3;
+				color: #fff;
+			}
+		}
 	}
 }
 
@@ -312,3 +372,5 @@ footer {
 		}
 	}
 }
+
+.lfloat { float: left; }
