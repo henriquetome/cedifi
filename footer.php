@@ -10,9 +10,11 @@
 
 </footer>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script src="js/banner.js"></script>
 <script src="js/slides.min.jquery.js"></script>
+<script src="js/enscroll.min.js"></script>
+<script src="js/cf-box.js"></script>
 
 </body>
 </html>
