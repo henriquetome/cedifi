@@ -15,6 +15,13 @@ $(document).ready(function(){
 
 		$('.stage').css({"top":docTop, "marginTop":heightWindow/2 - 250})
 
+		$('#scrollbox3').enscroll({
+		    showOnHover: true,
+		    verticalTrackClass: 'track3',
+		    verticalHandleClass: 'handle3'
+		});
+
+
 		$('.overlay').fadeIn(300, function(){
 			$('.stage').fadeIn(500)
 		})
@@ -30,11 +37,4 @@ $(document).ready(function(){
 			$('.overlay').fadeOut(300)
 		})
 	})
-
-	$('#scrollbox3').enscroll({
-	    showOnHover: true,
-	    verticalTrackClass: 'track3',
-	    verticalHandleClass: 'handle3'
-	});
-
 })

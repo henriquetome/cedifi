@@ -399,9 +399,9 @@ footer ul li a {
 }
 #scrollbox3 {
   overflow: auto;
-  width: 470px;
+  width: 465px;
   height: 450px;
-  padding: 0 5px;
+  padding: 0 15px 0 5px;
   cursor: text;
 }
 #scrollbox3 .track3 {
@@ -409,24 +409,12 @@ footer ul li a {
   background: rgba(0, 0, 0, 0);
   margin-right: 2px;
   border-radius: 10px;
-  -webkit-transition: background 250ms linear;
-  transition: background 250ms linear;
-}
-#scrollbox3 .track3:hover,
-#scrollbox3 .track3.dragging {
-  background: #d9d9d9;
-  /* Browsers without rgba support */
-
-  background: rgba(0, 0, 0, 0.15);
 }
 .handle3 {
   width: 7px;
   right: 0;
   background: #999;
-  background: rgba(0, 0, 0, 0.4);
   border-radius: 7px;
-  -webkit-transition: width 250ms;
-  transition: width 250ms;
 }
 .track3:hover .handle3,
 .track3.dragging .handle3 {

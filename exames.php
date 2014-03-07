@@ -91,7 +91,9 @@ Um tubo flexível e fino (duoendoscópio) é introduzido pela boca passando pelo
 					<p>» Pedido do exame<br>
 					» Se for o caso, carteira do plano de saúde e eventual autorização prévia – informar-se previamente com a recepcionista da Endoview<br>
 					» Exames anteriores como Esofagografia (RX), Endoscopia digestiva, Esofagomanometria, pHmetria de 24h</p>
-					  
+					<br>
+					
+
 					<p><strong>APÓS O EXAME:</strong></p>
 					<p>Após o exame o paciente poderá retornar às suas atividades normais, inclusive de trabalho.</p>
 					<p>Alimentação: pode alimentar-se normalmente após o exame.</p>
@@ -112,10 +114,53 @@ Um tubo flexível e fino (duoendoscópio) é introduzido pela boca passando pelo
 			<img class="lfloat" src="images/exames/phmetria.jpg" alt="">
 
 			<ul class="exam-nav lfloat">
-				<li><a href="#">O que é o exame</a></li>
-				<li><a href="#">Como é feito</a></li>
-				<li><a href="#">Antes e depois do exame</a></li>
-				<li><a href="#">Entrega dos resultados</a></li>
+				<li>
+					<a href="#">O que é o exame</a>
+					<aside><p>A pHmetria esofágica é um exame onde é medida a quantidade de ácido que sobe do estômago para o esôfago durante 24 horas, 
+					e quanto tempo esse ácido permanece no esôfago. É normal que o ácido suba do estômago para a parte final do esôfago algumas 
+					vezes ao dia, mas que permaneça lá pouco tempo. Se o ácido sobe até a garganta ou reflui ao esôfago muitas vezes ao dia ou fique 
+					parado no esôfago por muito tempo, isso pode levar a doenças como esofagite, úlceras, tosse crônica, asma e outras. A pHmetria é o 
+					único exame que permite a análise adequada do que acontece com o ácido no esôfago e ajuda a orientar o seu médico qual o melhor 
+					tratamento.</p></aside>
+				</li>
+				<li>
+					<a href="#">Como é feito</a>
+					<aside><p>Para realizar essa medida, é necessário que a pessoa permaneça com uma sonda que passa pelo nariz e vai até o estômago por
+					24 horas. Essa sonda incomoda muito pouco e não dói nem machuca nada. O exame deve ser realizado enquanto a pessoa mantém 
+					suas atividades normais, portanto não deve ser feito em repouso ou finais de semana.Essa sonda é introduzida lentamente pelo nariz, 
+					com a ajuda de gel anestésico, até chegar na posição adequada; então é presa no nariz por um esparadrapo especial que não machuca 
+					a pele. Pode haver náuseas durante a passagem da sonda, que melhoram rapidamente. Essa sonda fica conectada a um aparelho 
+					que grava as informações do exame e que pode ser preso à cintura e um eletrodo que fica preso à pele através de um adesivo. Após 
+					a instalação do aparelho, a pessoa volta às suas atividades normais (trabalho, estudo, etc.) acompanhado de uma pasta aonde 
+					deve marcar toda e qualquer refeição (incluindo líquidos e lanches), anotando o início e o final das mesmas, deve anotar também os 
+					períodos em que permaneceu deitado (horário em que deitou e que levantou), e principalmente, deve anotar toda vez que apresentar 
+					algum sintoma, explicando o que sentiu. Sem esses dados, não será possível analisar os dados do exame. No dia seguinte, a pessoa 
+					deverá</p></aside>
+				</li>
+				<li>
+					<a href="#">Antes e depois do exame</a>
+					<aside><p><strong>ANTES DO EXAME:</strong></p>
+					<p>Após algumas horas de jejum, o paciente se apresenta à clínica, de preferência acompanhado por 
+					um adulto. Na recepção ele receberá uma ficha de avaliação pré-exame que deverá ser preenchida e 
+					assinada.</p>
+					<p>A PHmetria não pode ser realizada sob sedação, pois os medicamentos sedativos alteram a motilidade do esôfago.</p>
+					<br>
+
+
+					<p><strong>APÓS O EXAME:</strong></p>
+					<p><strong>O repouso</strong></p>
+					<p>Após a PHmetria geralmente não é exigido repouso, salvo em casos isolados. Ao chegar a sua residência o 
+					paciente estará apto a exercer suas atividades normalmente. É muito importante o correto preenchimento do 
+					diário, pois dele depende o sucesso do exame. Também é essencial dormir com a cama na horizontal e no máximo 
+					um travesseiro na noite do exame.<br>
+					Após o exame o paciente pode sentir ligeiro incômodo na narina e garganta, devido à passagem da sonda, bem 
+					como saída de pequenos coágulos pela narina, dependendo da conformação da cavidade nasal do examinado.</p>
+					</aside>
+				</li>
+				<li>
+					<a href="#">Entrega dos resultados</a>
+					<aside><p>Os dados gravados pelo aparelho são transferidos para um computador e analisados em conjunto com o diário. Por esse motivo, será marcada data para entrega de resultados.</p></aside>
+				</li>
 			</ul>
 		</article>
 
@@ -125,10 +170,68 @@ Um tubo flexível e fino (duoendoscópio) é introduzido pela boca passando pelo
 			<img class="lfloat" src="images/exames/video_retossigmoidoscopia.jpg" alt="">
 
 			<ul class="exam-nav lfloat">
-				<li><a href="#">O que é o exame</a></li>
-				<li><a href="#">Como é feito</a></li>
-				<li><a href="#">Antes e depois do exame</a></li>
-				<li><a href="#">Entrega dos resultados</a></li>
+				<li>
+					<a href="#">O que é o exame</a>
+					<aside><p>Retossigmoidoscopia é o exame do reto e da porção distal do cólon ( sigmóide) com um tubo fino e flexível (colonoscópio) que transmite imagens coloridas para um monitor permitindo ao médico avaliar esses órgãos.</p>
+					<p>É um exame muito importante na prevenção do câncer do intestino pois detecta lesões pré-cancerosas.</p></aside>
+				</li>
+				<li>
+					<a href="#">Como é feito</a>
+					<aside><p>É um exame seguro, eficaz e com boa tolerância. Você deitará em uma maca apropriada e receberá medicações sedativas. Após, o endoscópio será suavemente introduzido pelo ânus para examinar a mucosa da parte distal do intestino.</p>
+					<p>Durante a retossigmoidoscopia poderão ser colhidos pequenos fragmentos de tecidos – biópsias, que são indolores. Poderão ser realizados tratamentos como retirada de pólipos, tratamentos de lesões que causam 
+					sangramento, dilatações de estenoses, ….</p></aside>
+				</li>
+				<li>
+					<a href="#">Antes e depois do exame</a>
+					<aside><p><strong>ANTES DO EXAME:</strong></p>
+
+					<p><em>“O bom preparo do intestino é fundamental para um exame completo facilitando o diagnóstico”</em></p>
+					<p>Um bom preparo significa eliminação de fezes líquidas de coloração clara.</p>
+					<p><strong>Véspera do exame:</strong></p>
+					 
+					<p>» Desjejum: Suco de frutas coado e torradas.  Pode fazer uso de geléia e mel.<br>
+					» Frutas para suco: Laranja,caju,limão,maça e pêra. Devem ser coados.<br>
+					» Almoço: Peito de frango + Arroz branco + purê de batatas/cenoura. Gelatina.<br>
+					» Lanche da tarde: Suco de frutas coado e torradas.<br>
+					» Jantar:  Sopa de legumes batida no liquidificador.</p>
+
+					<p>Beber bastante água durante o dia e líquidos em geral (água de coco, chá, gatorate, mate) até às 24 horas.</p>
+
+					<p><strong>Medicamentos:</strong></p>
+					<p>» Às 17h: Dulcolax 02 comp. Via Oral.</p>
+
+					<p><strong>Dia do exame:</strong></p>
+					<p>» Jejum de 6h.<br>
+					» 2h e meia antes do horário do exame.</p>
+					<p>Fleet enema ou phosfo enema – Aplicar 2 frascos via retal conforme instruções da bula.</p>
+
+					<p><strong>OBS:</strong></p>
+					<p>» Chegue ao local do exame uma hora antes do horário marcado.<br>
+					 » Traga o pedido médico do exame, documento de identificação com foto e carteira do plano de saúde.</p>
+
+					<p><strong>Instruções especiais>:</strong></p>
+					<p>» Se fizer uso de medicações que alterem a coagulação e/ou função plaquetária comunique ao médico pois devem ser suspensos 5/7 dias antes do exame. ( Ex: AAS, Ticlid, Clexane, Marevan, Coumadin,…).<br>
+					» Trazer a lista de medicamentos que faz uso. Se for diabético, não usar a insulina na manhã do exame.<br>
+					» Avise se tiver alergias à medicamentos.<br>
+					» Vir com acompanhante para retornar em segurança para a casa. Não poderá dirigir pelo uso de sedativos</p>
+					<br>
+
+
+					<p><strong>APÓS O EXAME:</strong></p>
+
+					<p>Após o exame, você permanecerá no repouso para se recuperar da sedação.</p>
+					<p>Você deve vir acompanhado para retornar para casa em segurança. Não poderá dirigir devido ao uso de sedativos.</p>
+					<p>Para um exame adequado é fundamental a limpeza do intestino grosso distal, que permite uma eficaz análise de toda a mucosa. Portanto siga cuidadosamente as orientações do preparo.</p>
+
+					<p><strong>Principais indicações:</strong></p>
+					<p>» Sangramento retal.<br>
+					» Anemia por deficiência de ferro.<br>
+					» Dor ao evacuar.</p></aside>
+				</li>
+				<li>
+					<a href="#">Entrega dos resultados</a>
+					<aside><p>Será marcada a data para a entrega do resultado.</p></aside>
+				</li>
 			</ul>
 		</article>
 
@@ -138,10 +241,22 @@ Um tubo flexível e fino (duoendoscópio) é introduzido pela boca passando pelo
 			<img class="lfloat" src="images/exames/endoscopia_digital_alta.jpg" alt="">
 
 			<ul class="exam-nav lfloat">
-				<li><a href="#">O que é o exame</a></li>
-				<li><a href="#">Como é feito</a></li>
-				<li><a href="#">Antes e depois do exame</a></li>
-				<li><a href="#">Entrega dos resultados</a></li>
+				<li>
+					<a href="#">O que é o exame</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Como é feito</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Antes e depois do exame</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Entrega dos resultados</a>
+					<aside></aside>
+				</li>
 			</ul>
 		</article>
 
@@ -151,10 +266,22 @@ Um tubo flexível e fino (duoendoscópio) é introduzido pela boca passando pelo
 			<img class="lfloat" src="images/exames/endoscopia_digital_alta.jpg" alt="">
 
 			<ul class="exam-nav lfloat">
-				<li><a href="#">O que é o exame</a></li>
-				<li><a href="#">Como é feito</a></li>
-				<li><a href="#">Antes e depois do exame</a></li>
-				<li><a href="#">Entrega dos resultados</a></li>
+				<li>
+					<a href="#">O que é o exame</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Como é feito</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Antes e depois do exame</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Entrega dos resultados</a>
+					<aside></aside>
+				</li>
 			</ul>
 		</article>
 
@@ -164,11 +291,26 @@ Um tubo flexível e fino (duoendoscópio) é introduzido pela boca passando pelo
 			<img class="lfloat" src="images/exames/colonoscopia.jpg" alt="">
 
 			<ul class="exam-nav lfloat">
-				<li><a href="#">O que é o exame</a></li>
-				<li><a href="#">Como é feito</a></li>
-				<li><a href="#">Após o exame</a></li>
-				<li><a href="#">Risco de complicações</a></li>
-				<li><a href="#">Entrega dos resultados</a></li>
+				<li>
+					<a href="#">O que é o exame</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Como é feito</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Após o exame</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Risco de complicações</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Entrega dos resultados</a>
+					<aside></aside>
+				</li>
 			</ul>
 		</article>
 
@@ -178,11 +320,26 @@ Um tubo flexível e fino (duoendoscópio) é introduzido pela boca passando pelo
 			<img class="lfloat" src="images/exames/colonoscopia.jpg" alt="">
 
 			<ul class="exam-nav lfloat">
-				<li><a href="#">O que é o exame</a></li>
-				<li><a href="#">Como é feito</a></li>
-				<li><a href="#">Após o exame</a></li>
-				<li><a href="#">Risco de complicações</a></li>
-				<li><a href="#">Entrega dos resultados</a></li>
+				<li>
+					<a href="#">O que é o exame</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Como é feito</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Após o exame</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Risco de complicações</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Entrega dos resultados</a>
+					<aside></aside>
+				</li>
 			</ul>
 		</article>
 
@@ -192,11 +349,26 @@ Um tubo flexível e fino (duoendoscópio) é introduzido pela boca passando pelo
 			<img class="lfloat" src="images/exames/colonoscopia.jpg" alt="">
 
 			<ul class="exam-nav lfloat">
-				<li><a href="#">O que é o exame</a></li>
-				<li><a href="#">Como é feito</a></li>
-				<li><a href="#">Após o exame</a></li>
-				<li><a href="#">Risco de complicações</a></li>
-				<li><a href="#">Entrega dos resultados</a></li>
+				<li>
+					<a href="#">O que é o exame</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Como é feito</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Após o exame</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Risco de complicações</a>
+					<aside></aside>
+				</li>
+				<li>
+					<a href="#">Entrega dos resultados</a>
+					<aside></aside>
+				</li>
 			</ul>
 		</article>
 
