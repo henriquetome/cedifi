@@ -243,19 +243,23 @@ Um tubo flexível e fino (duoendoscópio) é introduzido pela boca passando pelo
 			<ul class="exam-nav lfloat">
 				<li>
 					<a href="#">O que é o exame</a>
-					<aside></aside>
+					<aside><p>A manometria é um Estudo da arquitetura muscular anal. Caracteriza-se por ser um exame simples, indolor, que não requer jejum ou sedação venosa. Tem como objetivo principal a mensuração das pressões dos músculos do esfíncter anal. Além disso, fornece informações importantes para a avaliação da capacidade do reto servir como um reservatório e da sua sensibilidade à diferentes estímulos.</p></aside>
 				</li>
 				<li>
 					<a href="#">Como é feito</a>
-					<aside></aside>
+					<aside><p>Um fino cateter de material maleável é introduzido através do ânus e em seguida o paciente é solicitado a acionar a musculatura pélvica e anal, realizando movimentos de contração voluntária e expulsão. O cateter é acoplado a um sistema de perfusão que mede a pressão muscular e a transmite para um polígrafo e para um computador onde as pressões são registrada. Durante o exame, há saída de água destilada pelo cateter que escorre entre as nádegas, podendo dá uma sensação de sujeira ao paciente, o que não corresponde à realidade. O exame dura em média cerca de 15 minutos.</p></aside>
 				</li>
 				<li>
 					<a href="#">Antes e depois do exame</a>
-					<aside></aside>
+					<aside><p>Não há necessidade de jejum ou preparo intestinal.</p>
+
+					<p><strong>Que situações é indicado?</strong></p>
+
+					<p>Pacientes com incontinência fecal, dor anal, constipação, suspeita de megacólon idiopático ou megacólon chagásico, avaliação de hemorróidas, fissuras e fístulas, bem como é um importante exame pré-operatório de cirurgias que possam envolver o ânus e reto.</p></aside>
 				</li>
 				<li>
 					<a href="#">Entrega dos resultados</a>
-					<aside></aside>
+					<aside><p>Será marcada a data para a entrega do resultado.</p></aside>
 				</li>
 			</ul>
 		</article>
@@ -268,19 +272,61 @@ Um tubo flexível e fino (duoendoscópio) é introduzido pela boca passando pelo
 			<ul class="exam-nav lfloat">
 				<li>
 					<a href="#">O que é o exame</a>
-					<aside></aside>
+					<aside><p>A endoscopia digestiva alta é o exame do esôfago, estômago e duodeno (primeira parte do intestino delgado) com um tubo fino e flexível (endoscópio) que captura e transmite imagens coloridas para um monitor permitindo ao médico avaliar esses órgãos.</p></aside>
 				</li>
 				<li>
 					<a href="#">Como é feito</a>
-					<aside></aside>
+					<aside><p>É procedimento seguro, rápido, eficaz e com boa tolerância. Você deitará de lado em uma maca apropriada e receberá medicações sedativas para relaxar. Após, o endoscópio será lentamente introduzido pela boca para examinar a mucosa da parte superior do tubo digestivo.<br>
+
+					Durante a endoscopia poderão ser colhidos pequenos fragmentos de tecidos – biópsias, que são indolores. Poderão ser realizados tratamentos como retirada de pólipos, tratamentos de lesões que causam sangramento, dilatações de estenoses, retirada de corpo estranho, etc.</p>
+
+					<p><strong>Principais indicações</strong></p>
+
+					<p>» Dor epigástrica e abdominal.<br>
+					» Pirose – Azia.<br>
+					» Náuseas e vômitos.<br>
+					» Anemia por deficiência de ferro.<br>
+					» Disfagia – dificuldade para engolir.<br>
+					» Sangramento digestivo.</p></aside>
 				</li>
 				<li>
 					<a href="#">Antes e depois do exame</a>
-					<aside></aside>
+					<aside><p><strong>ANTES DO EXAME:</strong></p>
+
+<p>» Jejum de 8 horas. Não coma e não beba nada.<br>
+» Chegue ao local do exame meia hora antes do horário marcado.<br>
+» Traga o pedido médico do exame, documento de identificação com foto e carteira do plano de saúde.</p>
+
+<p><strong>Instruções especiais:</strong></p>
+
+<P>» Trazer a lista de medicamentos que faz uso. Se for diabético, não usar insulina na manhã do exame. Avise caso faça uso de AAS, Ticlid, Marevan, Coumadin, Clexane.<br>
+» Avise se tiver alergias à medicamentos.</P>
+<p>Se tiver válvulas cardíacas artificiais ou história prévia de endocardite seu médico poderá prescrever antibióticos antes do exame de endoscopia.</p>
+<p>Você deve vir acompanhado para retornar para casa em segurança. Não poderá dirigir devido ao uso de sedativos.</p>
+
+<p><strong>DEPOIS DO EXAME:</strong></p>
+
+<p><strong>1. Não dirigir</strong></p>
+
+<p>» Mesmo que a pessoa esteja sentindo-se absolutamente normal, a sedação pode diminuir os reflexos, portanto não se deve dirigir após o exame.</p>
+
+<p><strong>2. Não ingerir bebidas alcoólicas ou outros sedativos</strong></p>
+
+<p>» A sedação utilizada durante a endoscopia pode ser potencializada por ingestão de álcool ou outros sedativos, por isso é aconselhável aguardar algumas horas antes de utilizá-los.</p>
+
+<p><strong>3. Sensação na garganta</strong></p>
+
+<p>» Imediatamente após o exame permanece leve sensação de anestesia na garganta (como se estivesse “grossa”), desaparecendo após alguns minutos.<br>
+» Embora seja incomum, após a cessação da anestesia da garganta pode surgir, eventualmente, leve sensação de irritação que costuma desaparecer completamente após algumas horas ou poucos dias. Se considerar necessário, podem ser utilizadas pastilhas do tipo cepacol, dequadim ou outra semelhante.</p>
+
+<p><strong>4. Alimentação</strong></p>
+
+<p>» Após acabar a sensação de anestesia na garganta (aproximadamente 10 minutos) já podem ser ingeridos líquidos e alimentos leves.<br>
+» Depois 30 minutos a alimentação já pode ser feita normalmente.</p></aside>
 				</li>
 				<li>
 					<a href="#">Entrega dos resultados</a>
-					<aside></aside>
+					<aside><p>Será marcada a data para a entrega do resultado.</p></aside>
 				</li>
 			</ul>
 		</article>
@@ -293,23 +339,104 @@ Um tubo flexível e fino (duoendoscópio) é introduzido pela boca passando pelo
 			<ul class="exam-nav lfloat">
 				<li>
 					<a href="#">O que é o exame</a>
-					<aside></aside>
+					<aside><p>Colonoscopia é o exame do reto, colon ( intestino grosso) e por vezes o final do intestino delgado chamado íleo distal com um tubo fino e flexível (colonoscópio) que transmite imagens coloridas para um monitor permitindo ao médico avaliar esses órgãos. É um método bastante preciso que avalia todos os tipos de lesão com auxílio de uma microcâmera (ou fibra ótica), uma lente de aumento e uma iluminação especial. Quando identificadas lesões, a colonoscopia permite, na maioria das vezes, seu tratamento (como retirada de pólipos ou esclerose de angiodisplasias) ou, se for o caso, colheita de material para estudo (biópsias).</p></aside>
 				</li>
 				<li>
 					<a href="#">Como é feito</a>
-					<aside></aside>
+					<aside><p>É um exame seguro, eficaz e com boa tolerância. Você deitará em uma maca apropriada e receberá medicações sedativas administradas por um médico anestesista. Após adormecer, o endoscópio será suavemente introduzido pelo ânus para examinar a mucosa intestinal.</p>
+
+					<p>Trata-se de procedimento importante na prevenção do câncer do intestino pois detecta lesões pré-cancerosas.<br>
+					Durante a colonoscopia poderão ser colhidos pequenos fragmentos de tecidos – biópsias, que são indolores. Poderão ser realizados tratamentos como retirada de pólipos, tratamentos de lesões que causam sangramento, dilatações de estenoses, etc.</p>
+
+					<p><strong>Principais indicações</strong></p>
+
+					<p>» Sangramento retal.<br>
+					» Anemia por deficiência de ferro.<br>
+					» Alteração do habito intestinal.<br>
+					» Dor abdominal, perda de peso, diverticulite recente.<br>
+					» História familiar de pólipo ou câncer de cólon.<br>
+					» História pessoal de pólipos ou câncer de cólon, câncer de endométrio ou câncer de ovário.</p></aside>
 				</li>
 				<li>
-					<a href="#">Após o exame</a>
-					<aside></aside>
-				</li>
-				<li>
-					<a href="#">Risco de complicações</a>
-					<aside></aside>
+					<a href="#">Antes e depois do exame</a>
+					<aside><p><strong>ANTES DO EXAME:</strong></p>
+
+					<p><em>“O bom preparo do intestino é fundamental para um exame completo facilitando o diagnóstico”</em></p>
+
+					<p>Um bom preparo significa eliminação de fezes líquidas de coloração clara.</p>
+
+					<p><strong>PREPARO PARA COLONOSCOPIA - MANHÃ</strong></p>
+
+					<p>Véspera do exame:</p>
+
+					<p>Desjejum: Suco de frutas coado e torradas.  Pode fazer uso de geléia e mel. Frutas para suco: Laranja,caju,limão,maça e pêra. Devem ser coados..</p>
+
+					<p>Almoço: Peito de frango + Arroz branco + purê de batatas/cenoura. Gelatina. Sopa de legumes batida no liquidificador.</p>
+
+					<p>Lanche da tarde: Suco de frutas coado e torradas. Até às 17 horas. Não comer após. Beber bastante água durante o dia e líquidos em geral até às 24 horas.<br>
+					( água de coco, chá, gatorate, mate)<p>
+
+					<p><strong>Medicamentos</strong></p>
+
+					<p>Às 12h: Dulcolax 02 comp. Via Oral</p>
+
+					<p>Às 17h: Misturar 3 frascos de MANITOL (ou 3 frascos de Phosfo enema – pode ser utilizado via oral)  +  750 ml  Mate, guaraná ou Suco de Laranja coado. Beber em cerca de 2 horas.<br>
+					( Farmácia Vita – 25630200)</p>
+
+					<p><em>* Se sentir enjôo pode tomar 01 comprimido de Plasil ou Digesan (se não tiver alergia).</em></p>
+
+					<p><strong>Dia do exame</strong></p>
+					<p>» Jejum</p>
+
+					<p><strong>PREPARO PARA COLONOSCOPIA – TARDE</strong></p>
+
+					<P>Véspera do exame:</P>
+
+					<p>Desjejum: Suco de frutas coado e torradas. Pode usar geléia e mel. Frutas para suco: Laranja, caju, limão, maça e pêra. Devem ser coados.</p>
+
+					<p><strong>Almoço:</strong> Peito de frango + Arroz branco + purê de batatas/cenoura. Gelatina Sopa de legumes batida no liquidificador.<br>
+					<strong>Lanche da tarde:</strong> Suco de frutas coado e torradas.<br>
+					<strong>Jantar:</strong> Sopa de legumes batida no liquidificador e suco de frutas coado.</p>
+
+					<p>Beber bastante água durante o dia e líquidos em geral até às 24 horas.<br>
+					( água de coco, chá, gatorate, mate)</p>
+
+					<p><strong>Medicamentos</strong></p>
+
+					<p>Às 17h: Dulcolax – 02 comp Via Oral.</p>
+
+					<p><strong>Dia do exame</strong></p>
+
+					<p>Ás 6 h: Misturar 3 frascos de Manitol -750 ml (ou 3 frascos de Phosfo enema – pode ser usado via oral) + 750ml de mate, guaraná ou suco de laranja coado.<br>
+					Beber em cerca de 2 horas.<br>
+					( Farmácia Vita Tel: 25630200)</p>
+
+					<p>Se sentir enjôo pode tomar 01 comprimido de Plasil ou Digesan.  Às 6h:</p>
+
+					<p><strong>Instruções especiais</strong></p>
+
+					<p>» Se fizer uso de medicações que alterem a coagulação e/ou função plaquetária comunique ao médico pois devem ser<br>
+					suspensos 5/7 dias antes do exame. ( Ex: AAS, Ticlid, Clexane, Marevan, Coumadin,…).<br>
+					» Trazer a lista de medicamentos que faz uso. Se for diabético, não usar insulina na manhã do exame.<br>
+					» Avise se tiver alergias à medicamentos.<br>
+					» Se tiver válvulas cardíacas artificiais ou história prévia de endocardite, seu médico poderá prescrever antibióticos antes do exame de endoscopia.<br>
+					» Se possuir exames anteriores, trazê-los no dia do exame.<br>
+					» Vir com acompanhante para retornar em segurança para a casa. Não poderá dirigir pelo uso de sedativos.</p>
+
+					<p><strong><em>OBS:</em></strong></p>
+
+					<p>» Chegue ao local do exame uma hora antes do horário marcado.<br>
+					» Traga o pedido médico do exame, documento de identificação com foto e carteira do plano de saúde.<br>
+					» Traga todos os seus exames ( Exame de sangue, ultrassonografia, tomografia, etc ) caso tenha realizado.</p>
+
+					<p><strong>DEPOIS DO EXAME:</strong></p>
+
+					<p>Após o exame, você permanecerá no repouso para se recuperar da sedação.<br>
+					Você deve vir acompanhado para retornar para casa em segurança. Não poderá dirigir devido ao uso de sedativos.<p></aside>
 				</li>
 				<li>
 					<a href="#">Entrega dos resultados</a>
-					<aside></aside>
+					<aside><p>Será marcada a data para a entrega do resultado.</p></aside>
 				</li>
 			</ul>
 		</article>
@@ -329,11 +456,7 @@ Um tubo flexível e fino (duoendoscópio) é introduzido pela boca passando pelo
 					<aside></aside>
 				</li>
 				<li>
-					<a href="#">Após o exame</a>
-					<aside></aside>
-				</li>
-				<li>
-					<a href="#">Risco de complicações</a>
+					<a href="#">Antes e depois do exame</a>
 					<aside></aside>
 				</li>
 				<li>
